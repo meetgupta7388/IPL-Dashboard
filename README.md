@@ -31,7 +31,7 @@ The dashboard uses IPL data sourced from official IPL records and statistics, co
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/meetgupta7388/ipl-dashboard.git
+   git clone https://github.com/meetgupta7388/IPL-Dashboard.git
 3. Open IPL Dashboard.pbix with Power BI Desktop.
    
 ## Contributing
